@@ -1,0 +1,145 @@
+[
+  {
+    "product_id": "P001",
+    "product_title": "Apple iPhone 15 Pro Max",
+    "product_image": "https://i.ibb.co.com/MS4WXnd/Apple-i-Phone-15-Pro-Max.jpg",
+    "category": "Phones",
+    "price": 1299,
+    "description": "Experience the ultimate smartphone with the iPhone 15 Pro Max.",
+    "specifications": [
+      "6.7-inch Super Retina XDR display",
+      "A17 Bionic chip",
+      "Triple-camera system (48MP Main, 12MP Telephoto, 12MP Ultrawide)",
+      "Up to 2TB storage"
+    ],
+    "availability": false,
+    "rating": 4
+  },
+  {
+    "product_id": "P002",
+    "product_title": "MacBook Pro 14",
+    "product_image": "https://i.ibb.co.com/1qJrNPT/Mac-Book-Pro-14.jpg",
+    "category": "MacBook",
+    "price": 1999,
+    "description": "Powerful performance and stunning display.",
+    "specifications": [
+      "M2 Pro chip",
+      "14-inch Liquid Retina XDR display",
+      "Up to 32GB unified memory",
+      "Up to 4TB SSD storage"
+    ],
+    "availability": true,
+    "rating": 3
+  },
+  {
+    "product_id": "P003",
+    "product_title": "Apple Watch Series 9",
+    "product_image": "https://i.ibb.co.com/HYHKkwV/Apple-Watch-Series-9.jpg",
+    "category": "Smart Watches",
+    "price": 399,
+    "description": "The ultimate smartwatch, now even better.",
+    "specifications": [
+      "Always-On Retina display",
+      "S9 chip",
+      "Heart rate monitoring, ECG app, blood oxygen app, crash detection"
+    ],
+    "availability": true,
+    "rating": 2
+  },
+  {
+    "product_id": "P004",
+    "product_title": "Anker PowerCore 26800",
+    "product_image": "https://i.ibb.co.com/QCDCcW1/Anker-Power-Core-26800.jpg",
+    "category": "Power Banks",
+    "price": 70,
+    "description": "High-capacity power bank for on-the-go charging.",
+    "specifications": ["26800mAh", "5V/3A, 9V/2A, 12V/1.5A", "5V/3A, 9V/2A"],
+    "availability": true,
+    "rating": 4
+  },
+  {
+    "product_id": "P005",
+    "product_title": "Apple AirPods Pro (2nd Generation)",
+    "product_image": "https://i.ibb.co.com/F3tsZh3/Apple-Air-Pods-Pro-2nd-Generation.jpg",
+    "category": "Accessories",
+    "price": 249,
+    "description": "Immersive sound with Active Noise Cancellation.",
+    "specifications": [
+      "Adaptive EQ, Spatial Audio with Dynamic Head Tracking, Personalized Spatial Audio",
+      "Active Noise Cancellation, Adaptive Transparency"
+    ],
+    "availability": false,
+    "rating": 4
+  },
+  {
+    "product_id": "P006",
+    "product_title": "Samsung Galaxy S24 Ultra",
+    "product_image": "https://i.ibb.co.com/7CmmGJ2/Samsung-Galaxy-S24-Ultra.jpg",
+    "category": "Phones",
+    "price": 1199,
+    "description": "The ultimate Android smartphone with a stunning display and powerful performance.",
+    "specifications": [
+      "6.8-inch Dynamic AMOLED 2X display",
+      "Qualcomm Snapdragon 8 Gen 3",
+      "200MP main camera, 12MP ultrawide, 10MP telephoto, 10MP periscope telephoto",
+      "5000mAh battery with 45W fast charging"
+    ],
+    "availability": true,
+    "rating": 2
+  },
+  {
+    "product_id": "P007",
+    "product_title": "Apple MacBook Air M2",
+    "product_image": "https://i.ibb.co.com/4PKcYG4/Apple-Mac-Book-Air-M2.jpg",
+    "category": "MacBook",
+    "price": 999,
+    "description": "The most affordable MacBook ever, with impressive performance and battery life.",
+    "specifications": [
+      "M2 chip",
+      "13.6-inch Liquid Retina display",
+      "8GB or 16GB unified memory",
+      "256GB or 512GB SSD storage"
+    ],
+    "availability": false,
+    "rating": 2
+  },
+  {
+    "product_id": "P008",
+    "product_title": "Xiaomi Mi Band 8",
+    "product_image": "https://i.ibb.co.com/3vbm0Dd/Xiaomi-Mi-Band-8.jpg",
+    "category": "Smart Watches",
+    "price": 60,
+    "description": "Affordable fitness tracker with a stylish design and long battery life.",
+    "specifications": [
+      "1.62-inch AMOLED display",
+      "Heart rate monitoring, blood oxygen monitoring, sleep tracking, stress monitoring"
+    ],
+    "availability": true,
+    "rating": 4
+  },
+  {
+    "product_id": "P009",
+    "product_title": "Anker PowerCore 10000 PD",
+    "product_image": "https://i.ibb.co.com/0ZKCxk9/Anker-Power-Core-10000-PD.jpg",
+    "category": "Power Banks",
+    "price": 80,
+    "description": "Compact power bank with Power Delivery for fast charging.",
+    "specifications": ["10000mAh", "18W Power Delivery, 12W Quick Charge 3.0"],
+    "availability": false,
+    "rating": 4
+  },
+  {
+    "product_id": "P010",
+    "product_title": "Apple AirPods (3rd generation)",
+    "product_image": "https://i.ibb.co.com/1m8hpLD/Apple-Air-Pods-3rd-generation.jpg",
+    "category": "Accessories",
+    "price": 179,
+    "description": "Wireless earbuds with great sound quality and long battery life.",
+    "specifications": [
+      "Adaptive EQ, Spatial Audio, Dynamic Head Tracking",
+      "Up to 6 hours of listening time"
+    ],
+    "availability": true,
+    "rating": 3
+  }
+]
