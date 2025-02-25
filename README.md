@@ -1,6 +1,5 @@
 **Website Link**
-
-https://b10-assignment-08.netlify.app/
+https://b10-assignment-08.netlify.app/](https://gadgethaven-e-commerce.netlify.app
 
 
 
